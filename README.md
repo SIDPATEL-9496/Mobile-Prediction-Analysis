@@ -1,2 +1,2 @@
-# Mobile-Price-Range-Prediction-Analysis
+# Mobile-Price-Prediction-Analysis
 ML-Capstone Project on Classification
