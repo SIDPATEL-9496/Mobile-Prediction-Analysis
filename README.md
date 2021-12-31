@@ -65,8 +65,8 @@ Sidhartha Patel | Avid Learner | Data Scientist | Machine Learning Engineer | De
   <li><p>,analyticsvidhya.com, 'Classification models'. [Online].</p>
       <p>Available: https://www.analyticsvidhya.com/blog/2020/11/popular-classification-models-for-machine-learning/</p>
   </li>
-  <li><p>Wikipedia.org, 'Logistic regression'. [Online].</p>
-      <p>Available: https://en.wikipedia.org/wiki/Logistic_regression#:~:text=Logistic%20regression%20is%20a%20statistical,a%20form%20of%20binary%20regression</p>
+  <li><p>ibm.com, 'Logistic regression'. [Online].</p>
+      <p>Available: https://www.ibm.com/in-en/topics/logistic-regression</p>
   </li>
   <li><p>Wikipedia.org, 'k-nearest neighbours'. [Online].</p>
       <p>Available: https://www.geeksforgeeks.org/k-nearest-neighbours/</p>
